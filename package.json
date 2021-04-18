@@ -1,0 +1,23 @@
+{
+  "name": "frondend-javscript-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest",
+    "test:watch" : "npx jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iedekoffeman/frontend-javascript-challenge.git"
+  },
+  "author": "Iede Koffeman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iedekoffeman/frontend-javascript-challenge/issues"
+  },
+  "homepage": "https://github.com/iedekoffeman/frontend-javascript-challenge#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
