@@ -1,7 +1,5 @@
-function calculateBMI  (bodyweight, length) {
-
-    const lengthInMeters = length / 100;
-    return Math.round(bodyweight / (lengthInMeters * lengthInMeters));
+function calculateBMI  () {
+    //WRITE calculateBMI FUNCTION HERE
 }
 //console.log(calculateBMI(75,186));
 module.exports = {
